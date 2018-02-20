@@ -6,7 +6,7 @@
     "test": "karma start ClientApp/test/karma.conf.js"
   },
   "devDependencies": {
-    "@angular/animations": "4.4.6",
+    "@angular/animations": "4.4.7",
     "@angular/common": "4.4.6",
     "@angular/compiler": "4.4.6",
     "@angular/compiler-cli": "4.4.6",
